@@ -4,7 +4,7 @@
   align-items: center;
   width: 100vw;
   height: 100vh;
-  background: pink url(download.jpeg);
+  background: pink url(/src/assets/gfx/btf-bg.jpg) center top / cover no-repeat;
 }
 .the-message {
   font: sans-serif;

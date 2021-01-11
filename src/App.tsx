@@ -5,7 +5,6 @@ import './App.css';
 function App() {
   return (
     <div className="back-to-the-future">
-      <img src={background}></img>
       <h1 className="the-message">
 Sorry! This page doesn't support Internet Explorer
       </h1>
